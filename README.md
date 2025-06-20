@@ -39,7 +39,7 @@ save [dish] – Bookmark favorite recipes
 #change file paths before running 
 
 # Clone repository
-git clone https://github.com/MennaFouad/chatbot
+git clone https://github.com/MennaFoaud/Chef-Sherbyny-chatbot-main
 
 # Run application
 sbt run
